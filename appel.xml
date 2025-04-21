@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="fr-FR">Bonjour, ceci est un appel automatique. Merci de rester en ligne.</Say>
+</Response>
